@@ -36,7 +36,7 @@ To evaluate the performance of these models, three evaluation metrics are used:
 
 ## Documentation
 
-The link to the documentation: [documentation](docs/user-manual.pdf) for more information.
+Here is the link to the documentation: [documentation](documentation.pdf)
 
 
 
