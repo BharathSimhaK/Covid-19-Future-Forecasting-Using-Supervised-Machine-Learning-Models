@@ -32,7 +32,7 @@ To evaluate the performance of these models, three evaluation metrics are used:
 
 ## Architecture 
 
-![architecture](https://i.imgur.com/abcdefg.png)
+![architecture](https://github.com/BharathSimhaK/Covid-19-Future-Forecasting-Using-Supervised-Machine-Learning-Models/blob/main/architecture.png?raw=trueg)
 
 ## Documentation
 
