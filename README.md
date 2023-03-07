@@ -51,3 +51,7 @@ To reproduce the predictions, follow these steps:
 3. Run the **src_code** to preprocess the data and train the models and make the predictions
 
 **Note:** refer to **architecture** to understand the procedure  
+
+## Conclusion
+
+The study demonstrates the potential of machine learning models for predicting COVID-19 trends. The results suggest that LR is a more effective method for predicting COVID-19 trends than SVM. The study findings can be useful for policymakers, healthcare professionals, and the general public in preparing for and mitigating the impact of COVID-19. However, it is important to note that these predictions are based on past data and may not accurately predict future trends. Continued monitoring and analysis of COVID-19 data are necessary to make informed decisions about managing the spread of the virus.
