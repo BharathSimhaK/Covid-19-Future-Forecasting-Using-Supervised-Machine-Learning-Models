@@ -31,7 +31,9 @@ To evaluate the performance of these models, three evaluation metrics are used:
 
 
 ## Architecture 
-![Screenshot](file:///Users/bharathsimha/Downloads/GITAM_PROJECT/D14_MINI_PROJECT/Architecture.png)
+
+![architecture](https://i.imgur.com/abcdefg.png)
+
 ## Documentation
 
 
