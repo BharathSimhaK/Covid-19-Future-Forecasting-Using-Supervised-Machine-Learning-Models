@@ -3,7 +3,7 @@
 
 The aim of this study is to forecast the future spread of COVID-19, focusing on the number of new positive cases, deaths, and recoveries. The purpose of this study is to help prepare for and mitigate the potential threat to humanity posed by the virus.
 
-## Data
+## Dataset
 The data used in this study is obtained from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) COVID-19 dataset. This dataset contains daily reports of the number of confirmed cases, deaths, and recoveries for countries and regions around the world.
 
 https://github.com/CSSEGISandData
